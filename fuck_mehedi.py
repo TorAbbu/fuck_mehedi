@@ -208,7 +208,7 @@ if pil in ["01", "1"]:
 
     os.system('python2 mahdi9.py')
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -224,7 +224,7 @@ elif pil in ["02", "2"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -240,7 +240,7 @@ elif pil in ["03", "3"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -256,7 +256,7 @@ elif pil in ["04", "4"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -270,7 +270,7 @@ elif pil in ["05", "5"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -286,7 +286,7 @@ elif pil in ["06", "6"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -302,7 +302,7 @@ elif pil in ["07", "7"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -318,7 +318,7 @@ elif pil in ["08", "8"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -334,7 +334,7 @@ elif pil in ["09", "9"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -348,7 +348,7 @@ elif pil in ["10"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -366,7 +366,7 @@ elif pil in ["11"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -378,7 +378,7 @@ elif pil in ["12"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -394,7 +394,7 @@ elif pil in ["13"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -410,7 +410,7 @@ elif pil in ["14"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -426,7 +426,7 @@ elif pil in ["15"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -440,7 +440,7 @@ elif pil in ["16"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -454,7 +454,7 @@ elif pil in ["17"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -484,7 +484,7 @@ elif pil in ["20"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -496,7 +496,7 @@ elif pil in ["21"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -510,7 +510,7 @@ elif pil in ["22"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -522,7 +522,7 @@ elif pil in ["23"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
@@ -534,7 +534,7 @@ elif pil in ["24"]:
 
     time.sleep(2)
 
-    print(" ")
+    print()
 
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 
