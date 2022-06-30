@@ -22,7 +22,7 @@ import os, time, uuid, requests
 
 try:
 
-	import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests,uuid,string	from multiprocessing.pool import ThreadPool
+	import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests,uuid,string	
 
 	from requests.exceptions import ConnectionError
 
